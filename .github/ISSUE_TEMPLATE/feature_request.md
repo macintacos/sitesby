@@ -1,10 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ":zap: FR - "
+title: ":zap: - <feature>"
 labels: 'needs triage'
 assignees: 'macintacos'
-
 ---
 
 ## Idea
